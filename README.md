@@ -6,3 +6,12 @@ For more users to get started with Eigen, I provide both Eiglish version and Chi
 
 Get familiar with eigen operations and some advanced grammar can help us develop high-performance
 applications, like `SLAM` or `SfM`.
+
+The chapters is organized as following:
+- [Chapter1: About Eigen]() [[CN (TODO)](CN/chap1_about_eigen.md) | [EN](EN/chap1_about_eigen.md)]
+- [Chapter2: Eigen Types]() [[CN (TODO)](CN/chap2_eigen_types.md) | [EN](EN/chap2_eigen_types.md)]
+- [Chapter3: Basic Operations]() [[CN (TODO)](CN/chap3_basic_operations.md) | [EN](EN/chap3_basic_operations.md)]
+- [Chapter4: Advanced Operations]() [[CN (TODO)](CN/chap3_advanced_operations.md) | [EN](EN/chap3_advanced_operations.md)]
+- [Chapter5: More Eigen Skills]() [[CN (TODO)](CN/chap5_more.md) | [EN](EN/chap5_more.md)]
+
+***Feel ease to contribute to this project!***
